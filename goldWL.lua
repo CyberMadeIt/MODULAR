@@ -1,0 +1,3 @@
+local gold = {}
+
+return gold
