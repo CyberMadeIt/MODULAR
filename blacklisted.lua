@@ -1,0 +1,2 @@
+local blacklisted = {}
+return blacklisted
