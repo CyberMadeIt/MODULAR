@@ -1,4 +1,2 @@
-local blacklisted = {
-96824996,
-}
+local blacklisted = {}
 return blacklisted
