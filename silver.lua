@@ -1,0 +1,2 @@
+local silver = {}
+return silver
